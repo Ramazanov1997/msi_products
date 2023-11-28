@@ -1,0 +1,227 @@
+const arr = [
+    {id:1,
+    name:'MSI Bravo 17 C7VE',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        processer:'amd',
+        processer_model:'Ryzen7-7535HS',
+        ram:16,
+        ssd:512,
+        display:17.3,
+        display_hz:144,
+        video_card:'RTX 4050'
+     }
+    },
+    {id:2,
+        name:'MSI Bravo 15 B5DD',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'amd',
+            processer_model:'Ryzen5-5600H',
+            ram:8 ,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RX 5500M'
+         }
+        },
+    {id:3,
+        name:'MSI Alpha 15 B5EEK',
+        price:0,
+         old_price:0,
+        image:img,
+        characteristic:{
+            processer:'amd',
+            processer_model:'Ryzen5-5600H',
+            ram:8,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RX 6600M'
+         }
+        },
+    {id:4,
+        name:'MSI GF63 Thin 11UC',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-11400H',
+            ram:8,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 3050'
+         }
+        },
+    {id:5,
+        name:'MSI Katana GF66 12UD',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-12700H',
+            ram:8,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 3050 Ti'
+         }
+        },
+    {id:6,
+        name:'MSI Katana GF66 11UC',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-11400H',
+            ram:16,
+            ssd:512,
+            display:17.3,
+            display_hz:144,
+            video_card:'RTX 3050'
+         }
+        },
+    {id:7,
+        name:'MSI Katana GF76 12UEOK',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-12700H',
+            ram:16,
+            ssd:512,
+            display:17.3,
+            display_hz:144,
+            video_card:'RTX 3060'
+         }
+        },
+    {id:8,
+        name:'MSI Summit E16 Flip Evo A12MT',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-1280P',
+            ram:16,
+            ssd:1024,
+            display:16,
+            display_hz:165,
+            video_card:'integrated'
+         }
+        },
+    {id:9,
+        name:'MSI Thin GF63 12VF',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-12450H',
+            ram:16,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4060'
+         }
+        },
+    {id:10,
+        name:'MSI Katana 15 B12VFK',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-12450H',
+            ram:16,
+            ssd:1024,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4060'
+         }
+        },
+    {id:11,
+        name:'MSI Pulse 15 B13VFK',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-13620H',
+            ram:32,
+            ssd:1024,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4060'
+         }
+        },
+    {id:12,
+        name:'MSI Cyborg 15 A12VF',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-12450H',
+            ram:16,
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4060'
+         }
+        },
+    {id:13,
+        name:'MSI Katana 17 B12VFK',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-12650H',
+            ram:16, 
+            ssd:1024,
+            display:17.3,
+            display_hz:144,
+            video_card:'RTX 4060'
+         }
+        },
+    {id:14,
+        name:'MSI Pulse 15 B13VGK',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I7-13620H',
+            ram:8, 
+            ssd:1024,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4070'
+         }
+        },
+    {id:15,
+        name:'MSI Thin GF63 12VE',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            processer:'intel',
+            processer_model:'I5-12450H',
+            ram:8, 
+            ssd:512,
+            display:15.6,
+            display_hz:144,
+            video_card:'RTX 4050'
+         }
+        },
+]   
