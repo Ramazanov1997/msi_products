@@ -1,0 +1,152 @@
+const arr = [
+    {id:1,
+    name:'MSI MAG B550 TOMAHAWK',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'B550',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'ATX',
+        max_ram_hz:4866,
+        audio_chip:'Realtek ALC1200'
+    }
+    },
+    {id:2,
+    name:'MSI MPG B550 GAMING PLUS',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'B550',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'ATX',
+        max_ram_hz:4400,
+        audio_chip:'Realtek ALC892'
+        }
+    },
+    {id:3,
+    name:'MSI A320M-A PRO',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'A320',
+        max_ram:2,
+        type_ram:'DDR4',
+        form_factor:'micro-ATX',
+        max_ram_hz:3200,
+        audio_chip:'Realtek ALC892'
+        }
+    },
+    {id:4,
+    name:'MSI B650 GAMING PLUS WIFI',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM5',
+        chipset:'B650',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:6000,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:5,
+    name:'MSI MAG B650 TOMAHAWK WIFI',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM5',
+        chipset:'B650',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:6600,
+        audio_chip:'Realtek ALC4080'
+        }  
+    },
+    {id:6,
+    name:'MSI B450M PRO-VDH MAX',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'B450',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'micro-ATX',
+        max_ram_hz:3866,
+        audio_chip:'Realtek ALC892'
+        }  
+    },
+    {id:7,
+    name:'MSI MPG X570 GAMING PLUS',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'X570',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'micro-ATX',
+        max_ram_hz:4400,
+        audio_chip:'Realtek ALC1220'
+        }  
+    },
+    {id:8,
+    name:'MSI B550 GAMING GEN3',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'B550',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'ATX',
+        max_ram_hz:4400,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:9,
+    name:'MSI MAG X670E TOMAHAWK WIFI',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM5',
+        chipset:'X670E',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:6600,
+        audio_chip:'Realtek ALC1200'
+        }  
+    },
+    {id:10,
+    name:'MSI A320M-A PRO',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'AMD-AM4',
+        chipset:'A320',
+        max_ram:2,
+        type_ram:'DDR4',
+        form_factor:'micro-ATX',
+        max_ram_hz:3200,
+        audio_chip:'Realtek ALC892'
+        }  
+    },
+]
