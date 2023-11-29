@@ -1,0 +1,179 @@
+const arr = [
+    {id:1,
+    name:'MSI Immerse GH20',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'95dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:2,
+    name:'MSI DS502',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'7.1 (virtual)',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'105dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:3,
+    name:'MSI Immerse GH50',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'109dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:4,
+    name:'MSI Immerse GH30',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'96dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:5,
+    name:'MSI Immerse GH61',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'7.1 (virtual)',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–40000hz',
+        sensitivity:'107dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:6,
+    name:'MSI Immerse GH60',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–40000hz',
+        sensitivity:'96dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:7,
+    name:'MSI DS502 Gaming',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'7.1 (virtual)',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'105dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:7,
+    name:'MSI Immerse GH40',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'7.1 (virtual)',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'95dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:7,
+    name:'MSI DS501',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'97dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:8,
+    name:'MSI Immerse GH10 Gaming',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'intracanal',
+        sound:'stereo',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–20000hz',
+        sensitivity:'85dB',
+        impedance:'16-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+    {id:9,
+    name:'MSI Immerse GH70',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        design:'invoices',
+        sound:'7.1 (virtual)',
+        microphone:'yes',
+        connection_type:'wired',
+        frequency_range:'20–40000hz',
+        sensitivity:'100dB',
+        impedance:'32-Ohm',
+        type_of_emitters:'dynamic'
+     }
+    },
+
+    
