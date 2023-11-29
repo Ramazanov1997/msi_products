@@ -1,0 +1,150 @@
+    {id:11,
+    name:'MSI PRO Z690-A WIFI',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'Z690',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:6400,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:12,
+    name:'MSI MPG Z490 GAMING PLUS',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1200',
+        chipset:'Z490',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'ATX',
+        max_ram_hz:4800,
+        audio_chip:'Realtek ALC1200-VD1'
+        }  
+    },
+    {id:13,
+    name:'MSI PRO B760-P WIFI DDR4',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'B760',
+        max_ram:4,
+        type_ram:'DDR4',
+        form_factor:'ATX',
+        max_ram_hz:5333,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:14,
+    name:'MSI PRO Z790-A WIFI DDR5',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'Z790',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:7200,
+        audio_chip:'Realtek ALC4080'
+    }  
+    },
+    {id:15,
+    name:'MSI MAG Z790 TOMAHAWK WIFI DDR5',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'Z790',
+        max_ram:4,
+        type_ram:'DDR5',
+        form_factor:'ATX',
+        max_ram_hz:7200,
+        audio_chip:'Realtek ALC4080'
+        }  
+    },
+    {id:16,
+    name:'MSI PRO H610M-E DDR4',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'H610',
+        max_ram:2,
+        type_ram:'DDR4',
+        form_factor:'micro-ATX',
+        max_ram_hz:3200,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:17,
+    name:'MSI MPG Z790 CARBON WIFI',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'Z790',
+        max_ram:4,
+        type_ram:'DDR5',
+         form_factor:'ATX',
+        max_ram_hz:7600,
+        audio_chip:'Realtek ALC4080'
+        }  
+    },
+    {id:18,
+    name:'MSI PRO Z790-P WIFI DDR5',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1700',
+        chipset:'Z790',
+        max_ram:4,
+        type_ram:'DDR5',
+         form_factor:'ATX',
+        max_ram_hz:7000,
+        audio_chip:'Realtek ALC897'
+        }  
+    },
+    {id:19,
+    name:'MSI B560M PRO-E',
+    price:0,
+    old_price:0,
+    image:img,
+    characteristic:{
+        socket:'Intel-LGA1200',
+        chipset:'B560',
+        max_ram:2,
+        type_ram:'DDR4',
+         form_factor:'micro-ATX',
+        max_ram_hz:4800,
+        audio_chip:'Realtek ALC4080'
+        }  
+    },
+    {id:20,
+        name:'MSI Z490-A PRO',
+        price:0,
+        old_price:0,
+        image:img,
+        characteristic:{
+            socket:'Intel-LGA1200',
+            chipset:'Z490',
+            max_ram:4,
+            type_ram:'DDR4',
+             form_factor:'ATX',
+            max_ram_hz:4800,
+            audio_chip:'Realtek ALC892'
+            }  
+        },
