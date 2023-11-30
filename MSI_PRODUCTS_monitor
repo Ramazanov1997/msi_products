@@ -46,10 +46,10 @@ const arr = [
      },
     },
     {id:4,
-    name:'https://c.dns-shop.ru/thumb/st4/fit/500/500/3794a3765cefd85e76eb47f23c1964d0/78c2737bd0f85d00bc4d9b007ffa4cea5f5c08e3ebf23c3a5fe8db68faf64a17.jpg.webp' ,
+    name:'MSI Pro MP241X' ,
     price:0,
     old_price:0,
-    image:'img',
+    image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/3794a3765cefd85e76eb47f23c1964d0/78c2737bd0f85d00bc4d9b007ffa4cea5f5c08e3ebf23c3a5fe8db68faf64a17.jpg.webp',
     characteristic:{  
         response_time:'4ms',
         display:23.8,
