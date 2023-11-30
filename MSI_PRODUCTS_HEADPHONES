@@ -3,7 +3,7 @@ const arr = [
     name:'MSI Immerse GH20',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/0ba7ab7acffba27ac4af8bae1535c0c7/1db25b2f38757bcd3c79c888f4e09d999aa955674b32355289fdc66d0f59e305.jpg.webp' ,
     characteristic:{
         design:'invoices',
         sound:'stereo',
@@ -19,7 +19,7 @@ const arr = [
     name:'MSI DS502',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://cdn.citilink.ru/uj_T9mg8cynHOmM3Idm1ll7ge9r8oO3XUFDzetc5Yqw/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/94ab5b38-70fc-4a47-8867-11525134712d.jpg' ,
     characteristic:{
         design:'invoices',
         sound:'7.1 (virtual)',
@@ -35,7 +35,7 @@ const arr = [
     name:'MSI Immerse GH50',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/784a505771261ce5a4ff8c173affa7f7/d98308be98e95dd546c8f5fbb3797db8fa85023e0226d365b177654bc26b407c.jpg.webp' ,
     characteristic:{
         design:'invoices',
         sound:'stereo',
@@ -51,7 +51,7 @@ const arr = [
     name:'MSI Immerse GH30',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_0_20190708133832_5d22d6d8872aa.png62405b38c58fe0f07fcef2367d8a9ba1/600.png' ,
     characteristic:{
         design:'invoices',
         sound:'stereo',
@@ -67,7 +67,7 @@ const arr = [
     name:'MSI Immerse GH61',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_0_20200925101736_5f6d53407b9a7.png62405b38c58fe0f07fcef2367d8a9ba1/600.png' ,
     characteristic:{
         design:'invoices',
         sound:'7.1 (virtual)',
@@ -83,7 +83,7 @@ const arr = [
     name:'MSI Immerse GH60',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_1_20180328134143_5abb2b17386e8.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png' ,
     characteristic:{
         design:'invoices',
         sound:'stereo',
@@ -99,7 +99,7 @@ const arr = [
     name:'MSI DS502 Gaming',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_8_20180328133931_5abb2a93942a5.png62405b38c58fe0f07fcef2367d8a9ba1/600.png' ,
     characteristic:{
         design:'invoices',
         sound:'7.1 (virtual)',
@@ -115,7 +115,7 @@ const arr = [
     name:'MSI Immerse GH40',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/ebb3919e0b7ee78e4bc5ebb898333d03/043f829db490692ef6a34ade97ca6ea3cafb6f42c1d26ea002a3e11e755cd696.jpg.webp' ,
     characteristic:{
         design:'invoices',
         sound:'7.1 (virtual)',
@@ -131,7 +131,7 @@ const arr = [
     name:'MSI DS501',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://avatars.mds.yandex.net/i?id=f9e5ab0d53f96db7b03da707d1a41ee0ee22a887-10639406-images-thumbs&n=13' ,
     characteristic:{
         design:'invoices',
         sound:'stereo',
@@ -147,7 +147,7 @@ const arr = [
     name:'MSI Immerse GH10 Gaming',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_9_20180328134123_5abb2b03bbdc7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png' ,
     characteristic:{
         design:'intracanal',
         sound:'stereo',
@@ -163,7 +163,7 @@ const arr = [
     name:'MSI Immerse GH70',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://asset.msi.com/resize/image/global/product/product_4_20180328134207_5abb2b2f056b3.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png' ,
     characteristic:{
         design:'invoices',
         sound:'7.1 (virtual)',
@@ -175,5 +175,5 @@ const arr = [
         type_of_emitters:'dynamic'
      }
     },
-
+]
     
