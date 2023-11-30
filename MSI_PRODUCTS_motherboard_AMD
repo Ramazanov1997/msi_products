@@ -2,9 +2,9 @@ const arr = [
     {id:1,
     name:'MSI MAG B550 TOMAHAWK',
     price:0,
-    old_price:0,
-    image:img,
-    characteristic:{
+    old_price:0, 
+    image:'https://c.dns-shop.ru/thumb/st1/fit/0/0/3358b82a68814b0607cca5edc00ebcb7/907bf69866a5592d2a92732fef8e99e4f91d83c3c763c13351dba3b29cfaa5e6.png.webp' ,
+    characteristic:{ 
         socket:'AMD-AM4',
         chipset:'B550',
         max_ram:4,
@@ -12,13 +12,13 @@ const arr = [
         form_factor:'ATX',
         max_ram_hz:4866,
         audio_chip:'Realtek ALC1200'
-    }
+        }
     },
     {id:2,
     name:'MSI MPG B550 GAMING PLUS',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/0/0/65626ee1400c512d3c9584c15ec983a0/489e1dfb774c68ca8c80a1cd66477739765abc0c00722185d2c1178489ffdec3.png.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'B550',
@@ -33,7 +33,7 @@ const arr = [
     name:'MSI A320M-A PRO',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/f9ded1c4f0272c4965b71eb9e03c89d1/8f294b10338291df08061a7370eb823c8686d7e9b7e323d9ef8065a61fbf902c.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'A320',
@@ -48,7 +48,7 @@ const arr = [
     name:'MSI B650 GAMING PLUS WIFI',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/6b635893ba702e821f3d51d092f79025/f3465b1dd9af53fe73dc06da168b9d1a42ea0530c467065cb097a541a07d152e.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM5',
         chipset:'B650',
@@ -63,7 +63,7 @@ const arr = [
     name:'MSI MAG B650 TOMAHAWK WIFI',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/wm/0/0/d0fd8baf0a083474fde4c5db6934d0b9/1098a7d88325d218ad4a156029b36ff163be77f64187dd729c48efd129600a8b.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM5',
         chipset:'B650',
@@ -78,7 +78,7 @@ const arr = [
     name:'MSI B450M PRO-VDH MAX',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/7b1936bccadd34c2d3ece20c8123a0b0/92e4bc226d2457bc866eed524bcc7fcde803456f38e8b6ce05d35ef339d12bb1.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'B450',
@@ -90,10 +90,10 @@ const arr = [
         }  
     },
     {id:7,
-    name:'MSI MPG X570 GAMING PLUS',
+    name:'MSI MPG X570 GAMING PLUS CARBON WIFI',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/0/0/a520ba4f9000f9c41c7ada4d98786e84/e6d31a68590c70246ed7fbc8d49d1384225cb1f43f9ad50258e057ac2617784a.png.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'X570',
@@ -108,7 +108,7 @@ const arr = [
     name:'MSI B550 GAMING GEN3',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/cab0778a8dba5f7edb62913280e21bb5/8ecdbb6b24b3306206a975d6a475116ede52764c5ead719404e68bb8bec1b20d.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'B550',
@@ -123,7 +123,7 @@ const arr = [
     name:'MSI MAG X670E TOMAHAWK WIFI',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/ad0d97c4fe36b8154a1a2f145957bdc1/de582a642804d9593c779dec0755f31b92365069831db221d956b521abd2088f.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM5',
         chipset:'X670E',
@@ -138,7 +138,7 @@ const arr = [
     name:'MSI A320M-A PRO',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/f9ded1c4f0272c4965b71eb9e03c89d1/8f294b10338291df08061a7370eb823c8686d7e9b7e323d9ef8065a61fbf902c.jpg.webp' ,
     characteristic:{
         socket:'AMD-AM4',
         chipset:'A320',
