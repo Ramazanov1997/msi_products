@@ -3,7 +3,7 @@ const arr = [
     name:'MSI Bravo 17 C7VE',
     price:0,
     old_price:0,
-    image:img,
+    image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/95f4c21322c82572a8270602ae176d38/91c62bc133c06e02e037fe69de10c4ce37674ac5fe4e32c98f8236cc6093432f.jpg.webp' ,
     characteristic:{
         processer:'amd',
         processer_model:'Ryzen7-7535HS',
@@ -18,7 +18,7 @@ const arr = [
         name:'MSI Bravo 15 B5DD',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/2622605317a3be8a34b2c59c2898de2a/45d131b976f9c90e7d47156974d75a013c521487bc1c1da1104fd2c78800817c.jpg.webp' ,
         characteristic:{
             processer:'amd',
             processer_model:'Ryzen5-5600H',
@@ -33,7 +33,7 @@ const arr = [
         name:'MSI Alpha 15 B5EEK',
         price:0,
          old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/165d07bef3c3004cd53013f22db11070/96d216b34d48b8d202db8f9fe9caca69fceedb13ff5c336cd89be42d14cf6d46.jpg.webp' ,
         characteristic:{
             processer:'amd',
             processer_model:'Ryzen5-5600H',
@@ -48,7 +48,7 @@ const arr = [
         name:'MSI GF63 Thin 11UC',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/0d62166e4bdd58c7ec05422239661f99/5022d7cc914b8eb792155c71ba77be58618598e28b1a528f64eb31932a9bfca8.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-11400H',
@@ -63,7 +63,7 @@ const arr = [
         name:'MSI Katana GF66 12UD',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/3c1da5b0d40f6f72b1293d4b1fa617f7/f6b7920246f54a4dbf45543f41dd93d4053c2cc6cf66ae57e9a2fc9116688272.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-12700H',
@@ -78,7 +78,7 @@ const arr = [
         name:'MSI Katana GF66 11UC',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/3c1da5b0d40f6f72b1293d4b1fa617f7/f6b7920246f54a4dbf45543f41dd93d4053c2cc6cf66ae57e9a2fc9116688272.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-11400H',
@@ -93,7 +93,7 @@ const arr = [
         name:'MSI Katana GF76 12UEOK',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st4/fit/500/500/3a29b5d1238435da2fc879cfe3d5d599/bd6547111327deddda01ab3927ae405fa3345c8d90923148ad2a0361d659c934.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-12700H',
@@ -108,7 +108,7 @@ const arr = [
         name:'MSI Summit E16 Flip Evo A12MT',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/d92eddcf6ded840871a41e8bda2aa22b/bc135067ced39e9354790760265959c58a8082af90b85b498b74287c18abf657.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-1280P',
@@ -123,7 +123,7 @@ const arr = [
         name:'MSI Thin GF63 12VF',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/a6109f2cda6cfedc97559f8986598674/f494f6d28cec9cd84e5fc9157ea88f4b197c2828768bd3626b6f6a04d9427322.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-12450H',
@@ -138,7 +138,7 @@ const arr = [
         name:'MSI Katana 15 B12VFK',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/491a8ae821c1c31ad0364a6421d52e90/ab5ec9f53950677cdc29656f3bf87a82aed1db13f4895ec11bd14b2f593a82a0.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-12450H',
@@ -153,7 +153,7 @@ const arr = [
         name:'MSI Pulse 15 B13VFK',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://cdn.citilink.ru/ymhUu4b0S4Hz4ZvrM9P-LObDJped74hq1X466cZBk5c/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/ee8e08b2-012d-43ec-963b-638da930a915.jpg' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-13620H',
@@ -168,7 +168,7 @@ const arr = [
         name:'MSI Cyborg 15 A12VF',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://storage-asset.msi.com/global/picture/image/feature/nb/Cyborg15-A13V/images/cyborg-gpu-laptop.png' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-12450H',
@@ -183,7 +183,7 @@ const arr = [
         name:'MSI Katana 17 B12VFK',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://c.dns-shop.ru/thumb/st1/fit/500/500/fa8429dae6573ef848a64d9a1e7a0719/7bfc873a6409937233f4d9bd2d5c4e198ada4ac7f194b13e4c38ee905569d899.jpg.webp' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-12650H',
@@ -198,7 +198,7 @@ const arr = [
         name:'MSI Pulse 15 B13VGK',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://akyol.com.tm/image/cache/catalog/Notebook/MSI/PULSE/MSI%20PULSE%2015%20B13VGK/MSI%20PULSE%2015%20B13VGK_2_1000x1000-1000x1000.jpg' ,
         characteristic:{
             processer:'intel',
             processer_model:'I7-13620H',
@@ -213,7 +213,7 @@ const arr = [
         name:'MSI Thin GF63 12VE',
         price:0,
         old_price:0,
-        image:img,
+        image:'https://cdn.citilink.ru/kobZKB224EoJSghU71KoAeAndy4OkmrHQ6VVwj5Q0S0/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/a74fe01d-6483-43a8-aef2-de25e5ef14fb.jpg' ,
         characteristic:{
             processer:'intel',
             processer_model:'I5-12450H',
