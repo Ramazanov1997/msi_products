@@ -64,7 +64,7 @@ msi_monitors = [
     name:'MSI PRO MP273A',
     price:0,
     old_price:0,
-    image:'https://images10.newegg.com/BizIntell/item/Monitors/Monitors%20-%20LCD%20Flat%20Panel/24-475-292/25_mobile.jpg' ,
+    image:'https://storage-asset.msi.com/global/picture/product/product_16946568566f9c800be924943d057187d687073e79.png' ,
     characteristic:{  
         response_time:'4ms',
         display:27,
@@ -79,7 +79,7 @@ msi_monitors = [
     name:'MSI PRO MP243X',
     price:0,
     old_price:0,
-    image:'https://photo2.tinhte.vn/data/attachment-files/2021/02/5354029_MSI_PRO_MP241.jpg' , 
+    image:'https://storage-asset.msi.com/global/picture/product/product_16950225027023f9e0e5f86cdb7e4d8de73e468b1b.png' , 
     characteristic:{  
         response_time:'4ms',
         display:23.8,
@@ -109,7 +109,7 @@ msi_monitors = [
     name:'MSI PRO MP243',
     price:0,
     old_price:0,
-    image:'https://images10.newegg.com/BizIntell/item/24/475/24-475-190/MSI%20Monitor-a5.jpg' ,
+    image:'https://storage-asset.msi.com/global/picture/product/product_16902717792b529f0d2c26807d73bcd46bf9c45ee2.png' ,
     characteristic:{  
         response_time:'5ms',
         display:23.8,
@@ -124,7 +124,7 @@ msi_monitors = [
     name:'MSI Optix G274QPX',
     price:0,
     old_price:0,
-    image:'https://gagadget.com/media/cache/28/b3/28b3db6909b5150711c04624e26fb82f.jpg' ,
+    image:'https://storage-asset.msi.com/global/picture/product/product_168179964345fcf73eda69b642a3c5426f30e53ae1.png' ,
     characteristic:{  
         response_time:'1ms',
         display:27,
