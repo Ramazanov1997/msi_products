@@ -1,4 +1,4 @@
-const arr = [
+const msi_monitors = [
     {id:1,
     name:'MSI Optix G2412',
     price:0,
