@@ -64,7 +64,7 @@ msi_monitors = [
     name:'MSI PRO MP273A',
     price:0,
     old_price:0,
-    image:'https://c.dns-shop.ru/thumb/st4/fit/0/0/1f5f05c68bae1a21d11fc706e783b2a2/6ea438b1c859d11daf203df2cc2fd6826979ff30c5d1210db87b4627e7ad0a34.png.webp' ,
+    image:'https://images10.newegg.com/BizIntell/item/Monitors/Monitors%20-%20LCD%20Flat%20Panel/24-475-292/25_mobile.jpg' ,
     characteristic:{  
         response_time:'4ms',
         display:27,
@@ -79,7 +79,7 @@ msi_monitors = [
     name:'MSI PRO MP243X',
     price:0,
     old_price:0,
-    image:'https://c.dns-shop.ru/thumb/st4/fit/0/0/5822eebf05b0e68e218158486561c436/fbb3a64a4f09bf0a5b8560804b66ff3228abb7c47273357467a370c703b9295d.jpg.webp' , 
+    image:'https://photo2.tinhte.vn/data/attachment-files/2021/02/5354029_MSI_PRO_MP241.jpg' , 
     characteristic:{  
         response_time:'4ms',
         display:23.8,
@@ -109,7 +109,7 @@ msi_monitors = [
     name:'MSI PRO MP243',
     price:0,
     old_price:0,
-    image:'https://c.dns-shop.ru/thumb/st1/fit/0/0/1a9275c1b7c379cec1977241fab996cd/07e0b3ac01a9486e047986a1fcd278efe02c08500ef6c0d2a27eb3a2409a96a4.png.webp' ,
+    image:'https://images10.newegg.com/BizIntell/item/24/475/24-475-190/MSI%20Monitor-a5.jpg' ,
     characteristic:{  
         response_time:'5ms',
         display:23.8,
@@ -124,7 +124,7 @@ msi_monitors = [
     name:'MSI Optix G274QPX',
     price:0,
     old_price:0,
-    image:'https://c.dns-shop.ru/thumb/st4/fit/0/0/a48189d3f7ea00605be13d6a5b083d01/95610bc386b987ac611d6e5857993cc818d04dfd2e12b7a3c9bf8d5924b9b1be.jpg.webp' ,
+    image:'https://gagadget.com/media/cache/28/b3/28b3db6909b5150711c04624e26fb82f.jpg' ,
     characteristic:{  
         response_time:'1ms',
         display:27,
@@ -150,3 +150,4 @@ msi_monitors = [
         brightness:600
      },
     }
+]
