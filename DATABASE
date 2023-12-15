@@ -1,6 +1,8 @@
 Create table admin(
-	id serial primary key
-
+	id serial primary key,
+	name varchar(255),
+	dm boolean
+	FOREIGN KEY (name) references users(login)
 );
 
 Create table users(
