@@ -1,33 +1,116 @@
-Create table admin(
-	id serial primary key,
-	name varchar(255),
-	dm boolean
-	FOREIGN KEY (name) references users(login)
+CREATE TABLE IF NOT EXISTS admin (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255)
 );
 
-Create table users(
-	login varchar(255) unique,
-	password varchar(255)
-	
-	
+CREATE TABLE IF NOT EXISTS users (
+    id SERIAL PRIMARY KEY,
+    login VARCHAR(255) UNIQUE,
+    password VARCHAR(255)
 );
+
 CREATE TABLE IF NOT EXISTS products (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    price DECIMAL(10, 2) NOT NULL
+    price DECIMAL(10, 2) NOT NULL,
+    id_monitors SERIAL UNIQUE,
+    id_motherboards SERIAL UNIQUE,
+    id_laptops SERIAL UNIQUE,  
+    id_personal_computers SERIAL UNIQUE
 );
 
-insert into products(name,price)
-values
-('MSI Immerse GH20',100)
+CREATE TABLE IF NOT EXISTS monitors (
+    id SERIAL PRIMARY KEY,
+    product_id INTEGER UNIQUE,
+	price decimal,
+	name varchar(255),
+    response_time varchar(255),
+    display decimal,
+    display_hz int,
+    matrix varchar(255),
+    resolution varchar(255),
+    color_depth varchar(255),
+    brightness int
+);
 
-insert into admin(name,dm)
-values
-('adios payasos','true')
-drop table if exists admin
-drop table if exists users
-drop table if exists products
+CREATE TABLE IF NOT EXISTS motherboards (
+    id SERIAL PRIMARY KEY,
+    product_id INTEGER UNIQUE,
+	price decimal,
+	name varchar(255),
+    socket varchar(255),
+    chipset	varchar(255),
+    max_ram int,
+    type_ram varchar(255),
+    form_factor	varchar(255),
+    max_ram_hz int,
+    audio_chip varchar(255)
+);
 
-select * from products
-select * from users
+CREATE TABLE IF NOT EXISTS laptops (  
+    id SERIAL PRIMARY KEY,
+    product_id INTEGER UNIQUE,
+	name varchar(255),
+	price decimal,
+    brand VARCHAR(255),
+	processer_model varchar(255),
+    ram int,
+    ssd int,
+    display DECIMAL,
+    display_hz varchar(255),
+    video_card varchar(255),
+    FOREIGN KEY (product_id) REFERENCES products(id_laptops)
+);
+
+CREATE TABLE IF NOT EXISTS personal_computers (
+    id SERIAL PRIMARY KEY,
+    product_id INTEGER UNIQUE,
+    name varchar(255),
+	price decimal,
+	ssd int,
+	video_card varchar(255),
+	processor varchar(255),
+	ram INTEGER,
+    storage INTEGER,
+    FOREIGN KEY (product_id) REFERENCES products(id_personal_computers)
+);
+
+CREATE TABLE IF NOT EXISTS cart (
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER,
+    product_id INTEGER,
+    FOREIGN KEY (user_id) REFERENCES users(id),
+    FOREIGN KEY (product_id) REFERENCES products(id)
+);
+
+CREATE TABLE IF NOT EXISTS user_data (
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER,
+    cart TEXT[],
+    favorites TEXT[],
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
+INSERT INTO products(name, price)
+VALUES
+('MSI Immerse GH20', 100),
+('Dell Monitor', 200),
+('Asus Motherboard', 150),
+('HP Personal Computer', 800),
+('Intel Core i7', 300);
+
+INSERT INTO products(name, price)
+VALUES
+('Еще один продукт', 150);
+
+SELECT * FROM products;
+SELECT * FROM monitors;
+SELECT * FROM motherboards;
+SELECT * FROM laptops;  
+SELECT * FROM personal_computers;
+
+
 DELETE FROM users;
+DELETE FROM admin;
+
+DROP TABLE IF EXISTS users, admin, products, cart, user_data, monitors, motherboards, laptops, personal_computers 
